@@ -1,5 +1,7 @@
 # VR-Ocean : Simulation d'Écosystème Sous-Marin 🌊
 
+![Capture d'écran de la simulation](screenshot.PNG)
+
 VR-Ocean est une expérience de réalité virtuelle immersive développée avec Unity, mettant en scène un écosystème marin dynamique. L'utilisateur est plongé dans les profondeurs de l'océan pour observer la vie marine dans un environnement apaisant et réaliste.
 
 ##  Fonctionnalités Principales
